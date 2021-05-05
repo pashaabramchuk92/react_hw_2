@@ -1,0 +1,24 @@
+{
+  "notes": [
+    {
+      "title": "1",
+      "isComplete": true,
+      "id": 1
+    },
+    {
+      "title": "2",
+      "isComplete": false,
+      "id": 2
+    },
+    {
+      "title": "3",
+      "isComplete": false,
+      "id": 3
+    },
+    {
+      "title": "4",
+      "isComplete": false,
+      "id": 4
+    }
+  ]
+}
